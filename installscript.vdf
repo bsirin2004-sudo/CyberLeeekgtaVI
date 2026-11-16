@@ -1,0 +1,11 @@
+"InstallScript"
+{
+	"FileSystem"
+	{
+		"FileOperation"
+		{
+			"SourcePath" "GTAVI.exe"
+			"DestPath" "{INSTALLDIR}"
+		}
+	}
+}
